@@ -10,4 +10,6 @@ evaluated three different models on this lab.
 # Example of Decision Tree    
 ![img](https://github.com/tkshim/Picture/blob/master/picture_decision_tree.png)  
   
-
+# Example of Corrplot  
+![img](https://github.com/tkshim/Picture/blob/master/picture_corrplot.png)  
+  
