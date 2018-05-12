@@ -6,7 +6,7 @@ summary(raw_data)
 
 
 #
-# 1. 相を確認
+# 1. 相関を確認
 #
 
 R <- cor(raw_data)
